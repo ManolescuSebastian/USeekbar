@@ -1,2 +1,3 @@
+include ':useekbar'
 include ':app'
 rootProject.name = "USeekbar"

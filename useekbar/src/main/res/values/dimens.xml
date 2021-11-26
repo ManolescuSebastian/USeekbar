@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- padding -->
+    <dimen name="val_5dp">5dp</dimen>
+    <dimen name="val_10dp">10dp</dimen>
+    <dimen name="val_15dp">15dp</dimen>
+    <dimen name="val_20dp">20dp</dimen>
+    <dimen name="val_25dp">25dp</dimen>
+    <dimen name="val_30dp">30dp</dimen>
+
+    <!-- text sizes -->
+    <dimen name="small_text">11dp</dimen>
+    <dimen name="medium_text">15dp</dimen>
+    <dimen name="large_text">17dp</dimen>
+
+</resources>
