@@ -35,7 +35,7 @@ HOW IT WORKS
 
 ### SeekbarD0
 
-<img src="https://github.com/ManolescuSebastian/USeekbar/blob/main/github_images/D0.jpg" width="50%"></img>
+<img src="https://github.com/ManolescuSebastian/USeekbar/blob/main/github_images/D0.jpg" width="40%"></img>
 
 ```kotlin
 <com.tekydevelop.useekbar.SeekbarD0
@@ -52,7 +52,7 @@ HOW IT WORKS
 
 ### SeekbarD1
 
-<img src="https://github.com/ManolescuSebastian/USeekbar/blob/main/github_images/D1.jpg" width="50%"></img>
+<img src="https://github.com/ManolescuSebastian/USeekbar/blob/main/github_images/D1.jpg" width="40%"></img>
 ```kotlin
 <com.tekydevelop.useekbar.SeekbarD1
      android:id="@+id/seekbar_one"
@@ -69,7 +69,7 @@ HOW IT WORKS
 
 ### SeekbarD2
 
-<img src="https://github.com/ManolescuSebastian/USeekbar/blob/main/github_images/D2.jpg" width="50%"></img>
+<img src="https://github.com/ManolescuSebastian/USeekbar/blob/main/github_images/D2.jpg" width="40%"></img>
 ```kotlin
 <com.tekydevelop.useekbar.SeekbarD2
      android:id="@+id/seekbar_two"
@@ -97,7 +97,7 @@ HOW IT WORKS
 
 ### SeekbarD3
 
-<img src="https://github.com/ManolescuSebastian/USeekbar/blob/main/github_images/D3.jpg" width="50%"></img>
+<img src="https://github.com/ManolescuSebastian/USeekbar/blob/main/github_images/D3.jpg" width="40%"></img>
 ```kotlin
 <com.tekydevelop.useekbar.SeekbarD3
      android:id="@+id/seekbar_three"
@@ -123,7 +123,7 @@ HOW IT WORKS
 
 ### SeekbarD4
 
-<img src="https://github.com/ManolescuSebastian/USeekbar/blob/main/github_images/D4.jpg" width="50%"></img>
+<img src="https://github.com/ManolescuSebastian/USeekbar/blob/main/github_images/D4.jpg" width="40%"></img>
 ```kotlin
 <com.tekydevelop.useekbar.SeekbarD4
      android:id="@+id/seekbar_four"
@@ -150,7 +150,7 @@ HOW IT WORKS
 
 ### SeekbarD5
 
-<img src="https://github.com/ManolescuSebastian/USeekbar/blob/main/github_images/D5.jpg" width="50%"></img>
+<img src="https://github.com/ManolescuSebastian/USeekbar/blob/main/github_images/D5.jpg" width="40%"></img>
 
 ```kotlin
 <com.tekydevelop.useekbar.SeekbarD5
@@ -178,7 +178,7 @@ HOW IT WORKS
 
 ### SeekbarD6
 
-<img src="https://github.com/ManolescuSebastian/USeekbar/blob/main/github_images/D6.jpg" width="50%"></img>
+<img src="https://github.com/ManolescuSebastian/USeekbar/blob/main/github_images/D6.jpg" width="40%"></img>
 ```kotlin
 <com.tekydevelop.useekbar.SeekbarD6
      android:id="@+id/seekbar_six"
@@ -206,7 +206,7 @@ HOW IT WORKS
 
 ### SeekbarD7
 
-<img src="https://github.com/ManolescuSebastian/USeekbar/blob/main/github_images/D7.jpg" width="50%"></img>
+<img src="https://github.com/ManolescuSebastian/USeekbar/blob/main/github_images/D7.jpg" width="40%"></img>
 
 ```kotlin
 <com.tekydevelop.useekbar.SeekbarD7
@@ -235,7 +235,7 @@ HOW IT WORKS
 
 ### SeekbarD8 - top values
 
-<img src="https://github.com/ManolescuSebastian/USeekbar/blob/main/github_images/D8.jpg" width="50%"></img>
+<img src="https://github.com/ManolescuSebastian/USeekbar/blob/main/github_images/D8.jpg" width="40%"></img>
 
 ```kotlin
 <com.tekydevelop.useekbar.SeekbarD8
@@ -263,7 +263,7 @@ HOW IT WORKS
 
 ### SeekbarD8 - bottom values
 
-<img src="https://github.com/ManolescuSebastian/USeekbar/blob/main/github_images/D9.jpg" width="50%"></img>
+<img src="https://github.com/ManolescuSebastian/USeekbar/blob/main/github_images/D9.jpg" width="40%"></img>
 
 ```kotlin
 <com.tekydevelop.useekbar.SeekbarD8
