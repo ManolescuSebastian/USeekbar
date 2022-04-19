@@ -1,7 +1,34 @@
-# USeekbar
+<img src="https://github.com/ManolescuSebastian/USeekbar/blob/main/github_images/banner_1.png" width="100%"></img>
 
 
+Useekbar is a library that provides custom seekbar UI components.
 
+Project Demo
+-----
+<img src="https://github.com/ManolescuSebastian/USeekbar/blob/main/github_images/useekbar_demo.gif" width="30%"></img>
+
+How to
+------
+To get a Git project into your build:
+
+Step 1. Add the JitPack repository to your build file
+
+```
+allprojects {
+         repositories {
+	...
+	maven { url 'https://jitpack.io' }
+	}
+}
+```
+
+Step 2. Add the dependency
+
+```
+dependencies {
+         implementation 'com.github.ManolescuSebastian:USeekbar:1.0'
+}
+```
 
 
 
