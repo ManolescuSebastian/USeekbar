@@ -5,7 +5,7 @@ Useekbar is a library that provides custom seekbar UI components.
 
 Project Demo
 -----
-<img src="https://github.com/ManolescuSebastian/USeekbar/blob/main/github_images/useekbar_demo.gif" width="30%"></img>
+<img src="https://github.com/ManolescuSebastian/USeekbar/blob/main/github_images/useekbar_demo.gif" width="50%"></img>
 
 How to
 ------
